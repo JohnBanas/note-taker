@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 3001;
 const app = express();
 
 //modularization started for organization
-// const apiRoutes = require('./routes/api/apiRoutes');
+const apiRoutes = require('./routes/api/apiRoutes');
 const htmlRoutes = require('./routes/html/htmlRoutes');
 
 //access to the stylesheets and js files in 'public' folder
@@ -20,7 +20,7 @@ app.use(express.json());
 
 //if the api is '/api' it will look in apiRoutes.js
 //if '/' then htmlRoutes
-// app.use('/api', apiRoutes);
+app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
 
 
