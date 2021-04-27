@@ -1,20 +1,17 @@
-{
-  "notes":
-  [
-   {
-    "title":"Test Title",
-    "text":"Test Text",
+[
+  {
+    "title": "Test Title",
+    "text": "Test Text",
     "id": 1928374837
-    },
-    {
-      "title": "Test Title Two",
-      "text": "Test Text Two",
-      "id": 5936374937
-    },
-    {
-      "title": "Test Title Three",
-      "text": "Test Text Three",
-      "id": 8220394134
-    }
-  ]
-}
+  },
+  {
+    "title": "Test Title Two",
+    "text": "Test Text Two",
+    "id": 5936374937
+  },
+  {
+    "title": "Test Title Three",
+    "text": "Test Text Three",
+    "id": 8220394134
+  }
+]
