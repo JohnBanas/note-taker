@@ -30,6 +30,14 @@ You can access more badges and their purposes at [shields.io](https://shields.io
   The current version of the website is deployed at Heroku. Please follow this link  
 
   [https://immense-atoll-67173.herokuapp.com/](https://immense-atoll-67173.herokuapp.com/)
+
+  This link will take you to the home page which should look like the following image:
+
+  ![Note Taker home page static](https://www.awesomescreenshot.com/image/7710165?key=ca4837714380891af834288d829aede6)
+
+  After clicking on the `Get Started` button you should be taken to the next page which is where you can view saved notes, erase old notes, and create new notes. It should look like the following image:
+
+  ![Note Taker notes entry page static](https://www.awesomescreenshot.com/image/7710173?key=89c47dca12e4b7a47ade15af668c46dd)
   
   Also please look at the video link below for a walkthrough of the application. 
 
